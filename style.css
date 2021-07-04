@@ -1,0 +1,29 @@
+
+*{
+    box-sizing: border-box;
+    background-color:rgb(5, 67, 70);
+    color:darkgrey;
+    
+}
+
+body {
+    
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(weather-image.jpg);
+}
+h3{
+    font-weight: bold;
+}
+
+span{
+    font-size: 2em;
+}
+li:hover{
+    background-color: rgb(71, 125, 179);
+    text-decoration: underline;
+}
+h1{
+    text-align: center;
+    text-shadow: 1px 2px 3px rgb(250, 254, 255);
+}
